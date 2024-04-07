@@ -25,6 +25,24 @@ Le porthos va alors faire les choses suivantes :
 **git add .gitignore**
 **git commit -m " Mise à jour du dépot "**
 **git push**
+
+après qu'ils aient fais les choses suivantes je fais alors la commande git pull pour mettre à jour mon dépot local
+
 #### Développement d’un projet java en équipe
 
-#### Gérer des nouvelles fonctionnalités à l’aide des branches
+j'ai tous d'abord copier les fichiers suivants dans le répertoire src du tp3 :
+
+	CryptoMarche.java
+	Portefeuille.java
+	TestCryptoMarche.java
+	
+ensuite j'ai utilisé les commandes :
+**git status**
+**git add ./src/CryptoMarche.java**
+**git add ./src/Portefeuille.java**
+**git add ./src/TestCryptoMarche.java**
+**git commit -m " ajout de trois fichiers java "**
+**git push**
+
+ensuite les porthos ont utilisé la commande **git pull** pour avoir ma version dans leur dépot local.
+#### Gérer des nouvCryptoMarche.java**elles fonctionnalités à l’aide des branches
