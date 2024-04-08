@@ -24,6 +24,6 @@ List
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and- formatting-on-github/basic-writing-and-formatting-syntax).
 
-31 ### Jekyll Themes
-32
-33 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your frepository settings](https://github.com/juanluck
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your frepository settings](https://github.com/juanluck
